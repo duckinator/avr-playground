@@ -5,6 +5,7 @@ A repo for playing around and getting familiar with AVRs.
 ## Useful Links
 
 * http://www.engbedded.com/fusecalc
+* https://www.nongnu.org/avr-libc/user-manual/modules.html
 
 ## Datasheets
 
